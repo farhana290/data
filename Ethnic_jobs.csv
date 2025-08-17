@@ -6,11 +6,11 @@ Ethnic group,"Managers, directors and senior officials","Professional occupation
 "Asian, : Other Asian",44475,110995,41220,28350,56865,47520
 "Black, : African",43195,165610,64700,37405,128225,41550
 "Black, : Caribbean",24140,56605,45015,32540,39365,22795
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",6745,17690,13145,8925,12195,7715
-"Mixed or Multiple ethnic groups: White and Asian",19600,43310,27555,13195,10625,11860
-"Mixed or Multiple ethnic groups: White and Black African",6950,14600,11535,5835,7895,6365
-"Mixed or Multiple ethnic groups: White and Black Caribbean",15010,27965,28825,15710,20560,17495
-"Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups",20390,43800,30140,14300,14825,12455
+"Black, : Other Black",6745,17690,13145,8925,12195,7715
+"Mixed: White and Asian",19600,43310,27555,13195,10625,11860
+"Mixed : White and Black African",6950,14600,11535,5835,7895,6365
+"Mixed : White and Black Caribbean",15010,27965,28825,15710,20560,17495
+"Mixed : Other Mixed or Multiple ethnic groups",20390,43800,30140,14300,14825,12455
 "White: English, Welsh, Scottish, Northern Irish or British",2577925,3779165,2737620,1921790,1855320,1472215
 "White: Gypsy or Irish Traveller",1775,1005,1500,785,1620,1170
 "White: Irish",41435,78155,36685,20315,14390,9365
@@ -19,4 +19,5 @@ Ethnic group,"Managers, directors and senior officials","Professional occupation
 "Other ethnic group: Arab",11660,29740,10915,5760,7080,7705
 "Other ethnic group: Any other ethnic group",46020,79870,42425,27135,37495,32625
 "England and Wales overall",3347975,5432560,3554130,2444430,2500860,1998730
+
 
