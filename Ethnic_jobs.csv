@@ -1,11 +1,11 @@
 Ethnic group,"Managers, directors and senior officials","Professional occupations","Associate professional and technical occupations","Administrative and secretarial occupations","Caring, leisure and other service occupations","Sales and customer service occupations"
-"Asian, Asian British or Asian Welsh: Bangladeshi",19020,36440,22100,19600,17485,30395
-"Asian, Asian British or Asian Welsh: Chinese",29300,65800,24465,13885,6955,13275
-"Asian, Asian British or Asian Welsh: Indian",123990,310545,105010,81195,52380,77535
-"Asian, Asian British or Asian Welsh: Pakistani",55010,109760,51900,46705,44600,68325
-"Asian, Asian British or Asian Welsh: Other Asian",44475,110995,41220,28350,56865,47520
-"Black, Black British, Black Welsh, Caribbean or African: African",43195,165610,64700,37405,128225,41550
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",24140,56605,45015,32540,39365,22795
+"Asian,: Bangladeshi",19020,36440,22100,19600,17485,30395
+"Asian, : Chinese",29300,65800,24465,13885,6955,13275
+"Asian, : Indian",123990,310545,105010,81195,52380,77535
+"Asian, : Pakistani",55010,109760,51900,46705,44600,68325
+"Asian, : Other Asian",44475,110995,41220,28350,56865,47520
+"Black, : African",43195,165610,64700,37405,128225,41550
+"Black, : Caribbean",24140,56605,45015,32540,39365,22795
 "Black, Black British, Black Welsh, Caribbean or African: Other Black",6745,17690,13145,8925,12195,7715
 "Mixed or Multiple ethnic groups: White and Asian",19600,43310,27555,13195,10625,11860
 "Mixed or Multiple ethnic groups: White and Black African",6950,14600,11535,5835,7895,6365
@@ -19,3 +19,4 @@ Ethnic group,"Managers, directors and senior officials","Professional occupation
 "Other ethnic group: Arab",11660,29740,10915,5760,7080,7705
 "Other ethnic group: Any other ethnic group",46020,79870,42425,27135,37495,32625
 "England and Wales overall",3347975,5432560,3554130,2444430,2500860,1998730
+
